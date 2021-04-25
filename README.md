@@ -1,3 +1,4 @@
 O Company Communicator é um aplicativo de equipes personalizado que permite que equipes corporativas criem e enviem mensagens destinadas a várias equipes ou a um grande número de funcionários por meio de chat, permitindo que a organização alcance os funcionários exatamente onde eles colaboram. Use este modelo para vários cenários, como anúncios de novas iniciativas, integração de funcionários, aprendizagem e desenvolvimento modernos ou transmissões para toda a organização.
 
 O aplicativo fornece uma interface fácil para que usuários designados criem, visualizem, colaborem e enviem mensagens. É também uma base para a construção de recursos de comunicação direcionados personalizados, como telemetria personalizada sobre quantos usuários reconheceram ou interagiram com uma mensagem.
+Guia de Instalação: https://github.com/OfficeDev/microsoft-teams-apps-company-communicator/wiki/Deployment-guide
